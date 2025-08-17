@@ -153,7 +153,7 @@ export default function Header() {
               Reservar Mesa
             </motion.button>
           </div>
-        </div>
+        </motion.div>>
       </div>
     </motion.header>
   )
